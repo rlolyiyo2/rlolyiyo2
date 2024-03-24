@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rlolyiyo2
 - 👀 I’m interested in programming and music producing
 - 🌱 I’m currently learning phython
-- 💞️ I’m looking to collaborate on . . .
+- 💞️ I’m looking to collaborate on Dee Snutz
 - 📫 How to reach me: molo#1120
 
 <!---
